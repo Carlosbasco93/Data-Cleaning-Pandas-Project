@@ -1,3 +1,5 @@
+![portada](https://github.com/Carlosbasco93/Data-Cleaning-Pandas-Project/blob/main/images/Portada.jpg)
+
 # Data-Cleaning-Pandas-Project
 
 ## Objetivo
